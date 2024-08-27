@@ -1,1 +1,7 @@
 /* BASIC STYLES HERE */
+
+
+.vendr-card {
+  border: 2px solid black;
+  border-radius: 15px;
+}
